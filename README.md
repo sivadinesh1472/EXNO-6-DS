@@ -42,8 +42,8 @@ df
 sns.lineplot(x="total_bill",y="tip", data=df, hue="sex", linestyle='solid', legend="auto")
 ```
 
-<img width="639" height="449" alt="image" src="https://github.com/user-attachments/assets/c472129b-70f4-
-49c6-a3af-ec62a7050ed5" />
+<img width="639" height="449" alt="Screenshot 2026-03-17 153329" src="https://github.com/user-attachments/assets/45d3d269-2686-4367-bb2d-7f0ee1a0a52f" />
+
 
 ```
 x=[1, 2, 3, 4, 5]
